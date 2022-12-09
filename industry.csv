@@ -1,77 +1,40 @@
 Symbol,Description,GICS sector,Category1,Category2,Category3,Market Cap,Average Volume,Actions,Industry
-ACN,Accenture Plc Class A,Information Technology,US Equity,Common stocks,Large cap,"$189,735,762,837 ","1,768,691",Analyze,Information Technology Services
-IBM,International Business Machines Co,Information Technology,US Equity,Common stocks,Large cap,"$133,358,638,543 ","4,092,890",Analyze,Information Technology Services
-INFY,Infosys Ltd ADRs,Information Technology,US Equity,ADRs,Large cap,"$81,669,918,156 ","5,915,811",Analyze,Information Technology Services
-FISV,Fiserv Inc,Information Technology,US Equity,Common stocks,Large cap,"$63,725,067,427 ","3,788,350",Analyze,Information Technology Services
-FIS,Fidelity National Information Services,Information Technology,US Equity,Common stocks,Large cap,"$41,376,349,467 ","8,042,883",Analyze,Information Technology Services
-CTSH,Cognizant Technology Solutions,Information Technology,US Equity,Common stocks,Large cap,"$30,650,274,204 ","4,225,092",Analyze,Information Technology Services
-IT,Gartner Inc,Information Technology,US Equity,Common stocks,Large cap,"$27,484,679,364 ","410,390",Analyze,Information Technology Services
-WIT,Wipro Ltd ADRs,Information Technology,US Equity,ADRs,Large cap,"$26,988,864,869 ","2,091,539",Analyze,Information Technology Services
-CDW,CDW Corp,Information Technology,US Equity,Common stocks,Large cap,"$25,012,130,015 ","595,876",Analyze,Information Technology Services
-EPAM,Epam Systems Inc,Information Technology,US Equity,Common stocks,Large cap,"$19,563,212,943 ","363,083",Analyze,Information Technology Services
-GIB,CGI Group,Information Technology,US Equity,Common stocks,Large cap,"$18,010,365,446 ","129,765",Analyze,Information Technology Services
-BR,Broadridge Financial Solutions Inc,Information Technology,US Equity,Common stocks,Large cap,"$16,863,537,446 ","611,486",Analyze,Information Technology Services
-LDOS,Leidos Holdings Inc,Industrials,US Equity,Common stocks,Large cap,"$14,966,139,596 ","834,299",Analyze,Information Technology Services
-FLT,Fleetcor Technologies Inc,Information Technology,US Equity,Common stocks,Large cap,"$13,672,212,868 ","510,952",Analyze,Information Technology Services
-JKHY,"Jack Henry & Associates, Inc.",Information Technology,US Equity,Common stocks,Large cap,"$13,385,491,461 ","593,851",Analyze,Information Technology Services
-SNX,Synnex Corp,Information Technology,US Equity,Common stocks,Mid cap,"$9,306,614,414 ","219,203",Analyze,Information Technology Services
-G,Genpact Ltd,Information Technology,US Equity,Common stocks,Mid cap,"$8,263,109,307 ","841,202",Analyze,Information Technology Services
-CACI,CACI International Inc,Industrials,US Equity,Common stocks,Mid cap,"$7,308,017,035 ","116,245",Analyze,Information Technology Services
-DXC,DXC Technology Company,Information Technology,US Equity,Common stocks,Mid cap,"$6,398,113,852 ","1,509,729",Analyze,Information Technology Services
-SAIC,Science Applications International,Industrials,US Equity,Common stocks,Mid cap,"$6,291,106,503 ","361,381",Analyze,Information Technology Services
-CLVT,Clarivate Plc,Industrials,US Equity,Common stocks,Mid cap,"$6,135,718,170 ","7,075,429",Analyze,Information Technology Services
-CNXC,Concentrix Corporation,Information Technology,US Equity,Common stocks,Mid cap,"$6,050,487,911 ","139,576",Analyze,Information Technology Services
-DNB,"Dun & Bradstreet Holdings, Inc.",Industrials,US Equity,Common stocks,Mid cap,"$5,947,733,323 ","2,027,530",Analyze,Information Technology Services
-EXLS,Exlservice Holdings Inc,Information Technology,US Equity,Common stocks,Mid cap,"$5,831,605,442 ","238,442",Analyze,Information Technology Services
-SWCH,"Switch, Inc. Class A",Information Technology,US Equity,Common stocks,Mid cap,"$5,409,893,572 ","3,039,964",Analyze,Information Technology Services
-NSIT,Insight Enterprises Inc,Information Technology,US Equity,Common stocks,Mid cap,"$3,449,329,280 ","274,423",Analyze,Information Technology Services
-TDC,Teradata Corp,Information Technology,US Equity,Common stocks,Mid cap,"$3,436,768,000 ","1,241,586",Analyze,Information Technology Services
-GDS,GDS Holdings ADRs,Information Technology,US Equity,ADRs,Mid cap,"$3,317,959,149 ","2,239,671",Analyze,Information Technology Services
-NCR,NCR Corp,Information Technology,US Equity,Common stocks,Mid cap,"$3,132,720,000 ","1,035,301",Analyze,Information Technology Services
-TWKS,"Thoughtworks Holding, Inc",Information Technology,US Equity,Common stocks,Mid cap,"$2,884,185,158 ","1,147,051",Analyze,Information Technology Services
-AFRM,"Affirm Holdings, Inc.",Information Technology,US Equity,Common stocks,Mid cap,"$2,752,504,063 ","18,899,498",Analyze,Information Technology Services
-KD,"Kyndryl Holdings, Inc.",Information Technology,US Equity,Common stocks,Mid cap,"$2,483,351,190 ","2,021,308",Analyze,Information Technology Services
-PRFT,Perficient Inc,Information Technology,US Equity,Common stocks,Mid cap,"$2,454,464,111 ","192,781",Analyze,Information Technology Services
-XRX,Xerox Corp,Information Technology,US Equity,Common stocks,Mid cap,"$2,385,388,425 ","1,295,951",Analyze,Information Technology Services
-TTEC,Teletech Holdings Inc,Information Technology,US Equity,Common stocks,Mid cap,"$2,210,817,318 ","125,108",Analyze,Information Technology Services
-FLYW,Flywire Corp,Information Technology,US Equity,Common stocks,Mid cap,"$2,142,743,521 ","1,304,415",Analyze,Information Technology Services
-NABL,"N-able, Inc.",Information Technology,US Equity,Common stocks,Small cap,"$1,982,110,501 ","302,351",Analyze,Information Technology Services
-SABR,Sabre Corp,Information Technology,US Equity,Common stocks,Small cap,"$1,950,465,593 ","10,033,349",Analyze,Information Technology Services
-CD,Chindata Group Holdings Ltd ADRs,Information Technology,US Equity,ADRs,Small cap,"$1,497,623,859 ","1,434,978",Analyze,Information Technology Services
-RAMP,Liveramp Holdings Inc,Information Technology,US Equity,Common stocks,Small cap,"$1,429,906,439 ","657,290",Analyze,Information Technology Services
-AI,"C3.ai, Inc. Class A",Information Technology,US Equity,Common stocks,Small cap,"$1,258,728,629 ","1,630,097",Analyze,Information Technology Services
-FORTY,Formula Systems (1985) Ltd. ADRs,Information Technology,US Equity,ADRs,Small cap,"$1,246,858,094 ","1,001",Analyze,Information Technology Services
-PSFE,Paysafe Limited,Information Technology,US Equity,Common stocks,Small cap,"$1,007,931,702 ","6,083,364",Analyze,Information Technology Services
-AUR,"Aurora Innovation, Inc.  - Class A",Industrials,US Equity,Common stocks,Small cap,"$925,559,729 ","2,720,625",Analyze,Information Technology Services
-LPRO,Open Lending Corp. - Class A,Financials,US Equity,Common stocks,Small cap,"$880,313,112 ","835,155",Analyze,Information Technology Services
-GDYN,"Grid Dynamics Holdings, Inc. - Class A",Information Technology,US Equity,Common stocks,Small cap,"$868,748,495 ","522,190",Analyze,Information Technology Services
-CNDT,Conduent Inc,Information Technology,US Equity,Common stocks,Small cap,"$863,680,864 ","871,408",Analyze,Information Technology Services
-IMXI,International Money Express Inc.,Information Technology,US Equity,Common stocks,Small cap,"$780,164,320 ","495,928",Analyze,Information Technology Services
-VNET,"21Vianet Group, Inc. ADRs",Information Technology,US Equity,ADRs,Small cap,"$753,047,359 ","1,713,959",Analyze,Information Technology Services
-HCKT,Hackett Group Inc,Information Technology,US Equity,Common stocks,Small cap,"$734,877,904 ","267,763",Analyze,Information Technology Services
-TASK,"TaskUs, Inc.",Information Technology,US Equity,Common stocks,Small cap,"$525,777,391 ","317,348",Analyze,Information Technology Services
-DMRC,Digimarc Corp,Information Technology,US Equity,Common stocks,Small cap,"$441,993,167 ","119,253",Analyze,Information Technology Services
-PRTH,"Priority Technology Holdings, Inc.",Information Technology,US Equity,Common stocks,Small cap,"$429,413,379 ","44,083",Analyze,Information Technology Services
-CRGE,"Charge Enterprises, Inc.",Communication Services,US Equity,Common stocks,Small cap,"$385,514,809 ","829,918",Analyze,Information Technology Services
-CYXT,"Cyxtera Technologies, Inc. - Class A",Information Technology,US Equity,Common stocks,Small cap,"$337,680,913 ","677,680",Analyze,Information Technology Services
-UIS,Unisys Corp,Information Technology,US Equity,Common stocks,Small cap,"$303,682,342 ","1,117,999",Analyze,Information Technology Services
-TLS,Telos Corporation,Information Technology,US Equity,Common stocks,Micro cap,"$283,628,833 ","1,560,717",Analyze,Information Technology Services
-CTLP,"Cantaloupe, Inc.",Information Technology,US Equity,Common stocks,Micro cap,"$274,189,801 ","465,036",Analyze,Information Technology Services
-III,Information Services Group Inc,Information Technology,US Equity,Common stocks,Micro cap,"$251,038,645 ","168,763",Analyze,Information Technology Services
-PAY,"Paymentus Holdings, Inc.",Information Technology,US Equity,Common stocks,Micro cap,"$178,851,045 ","277,128",Analyze,Information Technology Services
-ALYA,Alithya Group Inc. - Class A Subordinate Voting Shares,Information Technology,US Equity,Common stocks,Micro cap,"$142,427,292 ","26,838",Analyze,Information Technology Services
-BBAI,"BigBear.ai, Inc.",Information Technology,US Equity,Common stocks,Micro cap,"$120,277,176 ","78,690",Analyze,Information Technology Services
-CTG,Computer Task Group Inc,Information Technology,US Equity,Common stocks,Micro cap,"$110,772,780 ","35,219",Analyze,Information Technology Services
-ISDR,Issuer Direct Corp,Information Technology,US Equity,Common stocks,Micro cap,"$99,362,634 ","4,425",Analyze,Information Technology Services
-INOD,Innodata Inc,Information Technology,US Equity,Common stocks,Micro cap,"$82,682,267 ","31,769",Analyze,Information Technology Services
-RSSS,"Research Solutions, Inc",Information Technology,US Equity,Common stocks,Micro cap,"$59,034,696 ","21,592",Analyze,Information Technology Services
-USIO,"Usio, Inc.",Information Technology,US Equity,Common stocks,Micro cap,"$57,992,413 ","79,518",Analyze,Information Technology Services
-CXDO,Crexendo Inc.,Information Technology,US Equity,Common stocks,Micro cap,"$44,374,526 ","23,137",Analyze,Information Technology Services
-CSPI,Csp Inc,Information Technology,US Equity,Common stocks,Micro cap,"$40,957,697 ","4,422",Analyze,Information Technology Services
-AVCT,"American Virtual Cloud Technologies, Inc.",Health Care,US Equity,Common stocks,Micro cap,"$36,041,707 ","2,694,178",Analyze,Information Technology Services
-CLPS,CLPS Inc,Information Technology,US Equity,Common stocks,Micro cap,"$25,402,485 ","40,534",Analyze,Information Technology Services
-WYY,Widepoint Corp,Information Technology,US Equity,Common stocks,Micro cap,"$17,555,215 ","21,107",Analyze,Information Technology Services
-NXTP,"NextPlay Technologies, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$17,139,133 ","304,627",Analyze,Information Technology Services
-CTEK,Cynergistek Inc.,Health Care,US Equity,Common stocks,Micro cap,"$16,570,713 ","155,607",Analyze,Information Technology Services
-WAVD,"WaveDancer, Inc.",Information Technology,US Equity,Common stocks,Micro cap,"$13,387,922 ","38,550",Analyze,Information Technology Services
-DTST,Data Storage Corporation,Information Technology,US Equity,Common stocks,Micro cap,"$12,078,576 ","17,486",Analyze,Information Technology Services
+OMC,Omnicom Group Inc,Communication Services,US Equity,Common stocks,Large cap,"$15,524,134,825 ","1,257,040",Analyze,Adveritising Agencies
+IPG,Interpublic Group Of Companies Inc,Communication Services,US Equity,Common stocks,Large cap,"$12,696,987,784 ","3,058,404",Analyze,Adveritising Agencies
+WPP,WPP PLC ADRs,Communication Services,US Equity,ADRs,Large cap,"$11,092,763,841 ","106,285",Analyze,Adveritising Agencies
+ZD,"Ziff Davis, Inc.",Communication Services,US Equity,Common stocks,Mid cap,"$4,211,847,087 ","264,580",Analyze,Adveritising Agencies
+CRTO,Criteo SA ADRs,Information Technology,US Equity,ADRs,Small cap,"$1,587,758,717 ","305,458",Analyze,Adveritising Agencies
+IAS,Integral Ad Science Holding LLC,Communication Services,US Equity,Common stocks,Small cap,"$1,445,986,734 ","451,324",Analyze,Adveritising Agencies
+MGNI,"Magnite, Inc.",Communication Services,US Equity,Common stocks,Small cap,"$1,424,548,778 ","3,051,807",Analyze,Adveritising Agencies
+STGW,Stagwell Inc. - Class A,Communication Services,US Equity,Common stocks,Small cap,"$957,350,760 ","440,530",Analyze,Adveritising Agencies
+DLX,Deluxe Corp,Industrials,US Equity,Common stocks,Small cap,"$814,841,099 ","193,656",Analyze,Adveritising Agencies
+CMPR,Cimpress N.V,Industrials,US Equity,Common stocks,Small cap,"$765,466,714 ","117,753",Analyze,Adveritising Agencies
+BOC,Boston Omaha Corporation Class A,Communication Services,US Equity,Common stocks,Small cap,"$764,189,931 ","71,901",Analyze,Adveritising Agencies
+QNST,Quinstreet Inc,Communication Services,US Equity,Common stocks,Small cap,"$741,309,609 ","211,067",Analyze,Adveritising Agencies
+ADV,Advantage Solutions Inc.  - Class A,Communication Services,US Equity,Common stocks,Small cap,"$696,912,127 ","621,557",Analyze,Adveritising Agencies
+TRMR,Tremor International Ltd. ADRs,Communication Services,US Equity,ADRs,Small cap,"$584,841,628 ","187,124",Analyze,Adveritising Agencies
+CCO,Clear Channel Outdoor Holdings Inc,Communication Services,US Equity,Common stocks,Small cap,"$480,815,967 ","2,033,157",Analyze,Adveritising Agencies
+CTV,Innovid Corp.,Communication Services,US Equity,Common stocks,Small cap,"$334,126,448 ","187,185",Analyze,Adveritising Agencies
+QUOT,Quotient Technology Inc,Consumer Discretionary,US Equity,Common stocks,Micro cap,"$298,801,622 ","1,108,650",Analyze,Adveritising Agencies
+EEX,Emerald Expositions Events Inc,Communication Services,US Equity,Common stocks,Micro cap,"$270,437,864 ","39,515",Analyze,Adveritising Agencies
+ICLK,iClick Interactive Asia Group Limited ADRs,Communication Services,US Equity,ADRs,Micro cap,"$238,236,119 ","22,819",Analyze,Adveritising Agencies
+ADTH,"AdTheorent Holding Company, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$142,519,833 ","104,938",Analyze,Adveritising Agencies
+XNET,Xunlei Limited ADRs,Information Technology,US Equity,ADRs,Micro cap,"$133,656,992 ","291,497",Analyze,Adveritising Agencies
+SCOR,"Comscore, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$115,932,107 ","425,987",Analyze,Adveritising Agencies
+TSQ,Townsquare Media Inc Class A,Communication Services,US Equity,Common stocks,Micro cap,"$93,731,976 ","31,344",Analyze,Adveritising Agencies
+FLNT,Fluent Inc.,Communication Services,US Equity,Common stocks,Micro cap,"$89,545,280 ","89,298",Analyze,Adveritising Agencies
+HHS,"Harte-Hanks, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$80,662,132 ","68,330",Analyze,Adveritising Agencies
+WIMI,WiMi Hologram Cloud Inc. ADRs of Class B,Consumer Discretionary,US Equity,ADRs,Micro cap,"$66,685,724 ","1,007,331",Analyze,Adveritising Agencies
+MCHX,Marchex Inc Class B,Communication Services,US Equity,Common stocks,Micro cap,"$62,910,303 ","16,186",Analyze,Adveritising Agencies
+DMS,"Digital Media Solutions, Inc. Class A",Communication Services,US Equity,Common stocks,Micro cap,"$61,286,907 ","40,016",Analyze,Adveritising Agencies
+SRAX,Social Realty Inc,Information Technology,US Equity,Common stocks,Micro cap,"$39,735,919 ","27,073",Analyze,Adveritising Agencies
+INUV,Inuvo Inc,Information Technology,US Equity,Common stocks,Micro cap,"$33,745,889 ","301,216",Analyze,Adveritising Agencies
+NCMI,National Cinemedia Inc,Communication Services,US Equity,Common stocks,Micro cap,"$33,521,662 ","884,572",Analyze,Adveritising Agencies
+STRN,"Stran & Company, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$24,035,428 ","50,041",Analyze,Adveritising Agencies
+CNET,Chinanet Online Holdings Inc.,Information Technology,US Equity,Common stocks,Micro cap,"$24,015,292 ","249,580",Analyze,Adveritising Agencies
+BAOS,Baosheng Media Group Holdings Limited,Communication Services,US Equity,Common stocks,Micro cap,"$23,996,769 ","3,340",Analyze,Adveritising Agencies
+ISIG,Insignia Systems Inc,Communication Services,US Equity,Common stocks,Micro cap,"$17,066,268 ","103,030",Analyze,Adveritising Agencies
+CPOP,"Pop Culture Group Co., Ltd",Communication Services,US Equity,Common stocks,Micro cap,"$13,665,818 ","14,720",Analyze,Adveritising Agencies
+DRCT,"Direct Digital Holdings, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$9,536,565 ","145,643",Analyze,Adveritising Agencies
+TRKA,"Troika Media Group, Inc.",Communication Services,US Equity,Common stocks,Micro cap,"$8,714,045 ","4,750,455",Analyze,Adveritising Agencies
+MOBQ,Mobiquity Technologies Inc.,Communication Services,US Equity,Common stocks,Micro cap,"$6,678,704 ","49,738",Analyze,Adveritising Agencies
